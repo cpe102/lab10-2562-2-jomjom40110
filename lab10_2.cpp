@@ -89,3 +89,4 @@ int main(){
 	
 	checkWinner(playerScore,yugiScore);
 }
+// It's not complete.Fill the second and last step
